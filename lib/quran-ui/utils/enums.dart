@@ -1,0 +1,4 @@
+enum ScreensList {
+  surahNames,
+  quranPage,
+}

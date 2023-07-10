@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "ab8b3b23c5316bcd5f3848b8eef92ede001c8953c371d75c4c02906af21150b1"
+build_start_time: [1688923434, 716276168]
+build_end_time: [1688923434, 923957824]
+inputs:
+  "/Users/engr-abi/Dev/Apps/quran-all-riwayat/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1688923332, 314132213]
+  "/Users/engr-abi/Dev/Apps/quran-all-riwayat/macos/Runner/AppDelegate.swift": !private [1686177027, 0]
+  "/Users/engr-abi/Dev/Apps/quran-all-riwayat/macos/Runner/MainFlutterWindow.swift": !private [1686177027, 0]

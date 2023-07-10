@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "4ff8f0b653aa419bd474c82db73b5e9271c48d4c6f7fd0b478e38ae48b25fa2e"
+build_start_time: [1688923356, 746690034]
+build_end_time: [1688923375, 183063983]
+inputs:
+  "/Users/engr-abi/.pub-cache/hosted/pub.dev/desktop_multi_window-0.2.0/macos/Classes/FlutterMultiWindowPlugin.swift": [1688908274, 405469417]
+  "/Users/engr-abi/.pub-cache/hosted/pub.dev/desktop_multi_window-0.2.0/macos/Classes/FlutterWindow.swift": [1688908274, 403371334]
+  "/Users/engr-abi/.pub-cache/hosted/pub.dev/desktop_multi_window-0.2.0/macos/Classes/MultiWindowManager.swift": [1688908274, 402156591]
+  "/Users/engr-abi/.pub-cache/hosted/pub.dev/desktop_multi_window-0.2.0/macos/Classes/WindowChannel.swift": [1688908274, 404407024]
