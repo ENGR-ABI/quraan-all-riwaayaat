@@ -1,12 +1,13 @@
 <!-- </p> -->
 <!-- <p align="center"> -->
 
-<img src="https://firebasestorage.googleapis.com/v0/b/quran-all-riwayat.appspot.com/o/Quran-All-Riwayat.png?alt=media&token=5d1fd2e2-c401-4b3a-8e3e-8932476bb406" alt="Quran All Riwayat">
-
-
 <h2 align="center">القرٱن الكريم، جميع الروايات </h2>
 
 <h2 align="center">Al Quraan All Riwaayaat App</h2>
+
+
+<img src="https://firebasestorage.googleapis.com/v0/b/quran-all-riwayat.appspot.com/o/Quran-All-Riwayat.png?alt=media&token=5d1fd2e2-c401-4b3a-8e3e-8932476bb406" alt="Quran All Riwayat">
+
 
 Welcome to Holy Quran - All Riwaayaat, a cross-platform and responsive application that brings the beauty and essence of the Quran to your fingertips. Designed with simplicity and accessibility in mind, this app offers a unique set of features that sets it apart from other Quran applications available on app stores.
 
