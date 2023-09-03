@@ -1,7 +1,7 @@
 <!-- </p> -->
 <!-- <p align="center"> -->
 
-<h2 align="center">القرٱن الكريم، جميع القرائات العشرة</h2>
+<h2 align="center">القرٱن الكريم، جميع الروايات </h2>
 
 <h2 align="center">Al Quraan All Riwaayaat App</h2>
 
